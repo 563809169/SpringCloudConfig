@@ -5,7 +5,7 @@ spring:
     name: item
   datasource:
     type: com.alibaba.druid.pool.DruidDataSource
-    url: jdbc:mysql://172.17.0.1:3306/cloud
+    url: jdbc:mysql://172.17.0.2:3307/cloud
     username: root
     password: 123456
   jpa:
