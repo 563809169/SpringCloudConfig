@@ -1,6 +1,4 @@
 spring:
-  application:
-    name: item
   datasource:
     type: com.alibaba.druid.pool.DruidDataSource
     url: jdbc:mysql://172.17.0.2:3307/cloud
